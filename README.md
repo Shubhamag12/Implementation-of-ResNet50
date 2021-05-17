@@ -1,1 +1,1 @@
-# Implementation-of-ResNet50
+# Implementation of ResNet50
